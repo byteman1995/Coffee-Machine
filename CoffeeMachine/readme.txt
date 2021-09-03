@@ -1,14 +1,11 @@
-# Coffee-Machine
-.Net Core Console Application for Coffee-Machine 
-
-# Solution Description :-
+Solution Description :-
 1. Solution Name : CoffeeMachine
 2. Tech Stack : .Net Core 3.1 MVC : https://dotnet.microsoft.com/download/dotnet/3.1
 3. Solution consists of 2 section : 
 	a. CoffeeMachine Solution
 	b. CoffeeMachine Test Solution
 
-# Solution Execution Steps :-
+Solution Execution Steps :-
 1. Install .Net Core 3.1
 2. The ResourcesTest contains the input1.json and input2.json for which the test case is defined
 3. Proceed to CoffeeMachine folder containing CoffeeMachine.sln and run the following in command prompt : 
